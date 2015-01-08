@@ -1,2 +1,2 @@
 # foobar-football-schema
-JSOM object schemas for FooBar Football.
+JSON object schemas for FooBar Football.
